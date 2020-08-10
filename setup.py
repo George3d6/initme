@@ -8,8 +8,11 @@ with open("initme/__about__.py") as fp:
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
-with open('requirements.txt') as req_file:
-    requirements = req_file.read().splitlines()
+try:
+    with open('requirements.txt') as req_file:
+        requirements = req_file.read().splitlines()
+except:
+    requirements = []
 
 setuptools.setup(
     name=about['__title__'],
