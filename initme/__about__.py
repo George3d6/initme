@@ -1,6 +1,6 @@
 __title__ = 'initme'
 __package_name__ = 'initme'
-__version__ = '0.2.0'
+__version__ = '0.3.0'
 __description__ = "Create the __init__.py file in every single subdirectroy with a python folder"
 __email__ = "george@cerebralab.com"
 __author__ = 'George Hosu'
