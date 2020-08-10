@@ -1,6 +1,6 @@
 # Initme
 
-Utility to help setup python projects/libraries.
+Utility to help setup python projects and libraries.
 
 ## Usages
 
