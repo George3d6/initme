@@ -23,3 +23,5 @@ I've created this library to take some of the hassle away from that. Currently i
 * Maybe a simple `.sh` files that helps with deployment or print out some instructions for beginners as to how to go about deploying.
 * Change all import's to use the proper module syntax
 * Create the "standard" dir structure (e.g. for project `blax` move all "python related" files in a subdir called `blax`)
+
+I'm curios if anyone thinks there's a need for such a library and/or if they want to contribute with the features above or some other ones. It's all fairly easy to do, just requires a bit of time and testing, but I will probably only add the features I need and the ones which other people want.
